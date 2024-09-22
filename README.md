@@ -33,7 +33,7 @@ GBC COMP-1238 - Intro to Data Mgmt
 - `code block`
   
 # Tasks
-- [x] create new github
+- [x] create new repo
 - [x] edit README.md
 - [x] add number-row characters in bullet list
 - [x] escape characters as needed

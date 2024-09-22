@@ -14,8 +14,8 @@ GBC COMP-1238 - Intro to Data Mgmt
 - )
 
 # Links
-- [GBC STU-VIEW](https://stuview.georgebrown.ca/)
 - [GBC D2L](https://learn.georgebrown.ca/d2l/home)
+- [GBC STU-VIEW](https://stuview.georgebrown.ca/)
 - [Cisco Networking Academy](https://legacy.netacad.com/portal/learning)
 
 # Experiments

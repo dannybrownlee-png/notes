@@ -10,7 +10,7 @@ Shortcuts I frequently use:
 Shortcuts I would like to start using: 
 - Win-E (open file explorer)
 - Win-D (show desktop)
-- Win-Arrow Keys Left/Right (pins windows on the left and right)
+- Win-Arrow Keys Left/Right (pins windows left and right)
 
 # Number row characters
 - !

@@ -6,10 +6,12 @@ Shortcuts I frequently use:
 - Ctrl-C (copy)
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
-
-Shortcuts I would like to start using: 
-- Win-E (open file explorer)
 - Win-D (show desktop)
+- 
+Shortcuts I would like to start using: 
+- Win-E (open file explorer)\
+- Win-I (open settings)
+- Win-R (run program)
 - Win-Arrow Keys Left/Right (pins windows left and right)
 
 # Number row characters

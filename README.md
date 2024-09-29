@@ -7,9 +7,9 @@ Shortcuts I frequently use:
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
 - Win-D (show desktop)
-- 
+  
 Shortcuts I would like to start using: 
-- Win-E (open file explorer)\
+- Win-E (open file explorer)
 - Win-I (open settings)
 - Win-R (run program)
 - Win-Arrow Keys Left/Right (pins windows left and right)

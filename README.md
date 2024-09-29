@@ -20,7 +20,7 @@ Shortcuts I would like to start using:
 - \#
 - $
 - %
-- \^
+- ^
 - &
 - \*
 - (

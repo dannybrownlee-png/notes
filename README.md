@@ -1,6 +1,17 @@
 # IntroText
 GBC COMP-1238 - Intro to Data Mgmt
 
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Win-E (open file explorer)
+- Win-D (show desktop)
+- Win-Arrow Keys Left/Right (pins windows on the left and right)
+
 # Number row characters
 - !
 - @

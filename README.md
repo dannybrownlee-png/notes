@@ -30,6 +30,7 @@ Shortcuts I would like to start using:
 - [GBC D2L](https://learn.georgebrown.ca/d2l/home)
 - [GBC STU-VIEW](https://stuview.georgebrown.ca/)
 - [Cisco Networking Academy](https://legacy.netacad.com/portal/learning)
+- [CLI Commands](docs/cli.md)
 
 # Experiments
 ## ~~H2~~ (not H2, lower lvl)

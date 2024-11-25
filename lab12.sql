@@ -78,7 +78,7 @@ GROUP BY status
 SELECT course_id, course_name
 FROM courses
 ORDER BY LENGTH(course_name)DESC
---Descending filter is used to find the longest name
+--Descending filter is used to sort by the longest name
 LIMIT 1
 --Limit to the top result because it's going to be the longest due to the above filter
 
